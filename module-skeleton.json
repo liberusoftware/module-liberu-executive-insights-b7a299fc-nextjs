@@ -1,0 +1,15 @@
+{
+  "repository": "module-liberu-executive-insights-b7a299fc-nextjs",
+  "capabilityKey": "liberusoftware/liberu-executive-insights",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-liberu-executive-insights-b7a299fc-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/automation/nextjs/liberu-executive-insights.md",
+  "presentationPlan": "projects/automation/nextjs/liberu-executive-insights.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "automation"
+  ]
+}
